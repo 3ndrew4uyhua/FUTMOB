@@ -5,3 +5,13 @@ import HeroBanner from './Compoents/HeroBanner';
 
 function App() {
   return (
+    <div className="App"> 
+        <Navbar />
+        <HeroBanner />
+    </div>
+
+
+  )
+}
+
+export default App;
