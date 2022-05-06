@@ -1,5 +1,5 @@
 .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../public/img/Top5-skilz.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../../src/Assets/Top5-skilz.jpg");
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
